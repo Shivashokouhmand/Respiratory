@@ -1,5 +1,5 @@
 # Respiratory
-This repository is for lung adventitious sound detection. (The codes will be publicly accessible later)
+This repository is for lung adventitious sound detection. (The codes will be publicly accessible upon acceptance/publication of our paper under consideration)
 # Dataset
 The repository uses the ICBHI 2017 respiratory sound dataset, accessible at https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge. The dataset is employed for classifying lung adventitious sounds into four distinct groups: Normal, WHEEZE, Cackle, and Wheeze+Crackle.
 # Details on running the code
