@@ -1,5 +1,5 @@
 # Respiratory
-This repository is for lung adventitious sound detection and related to Adventitious Pulmonary Sound Detection: Leveraging SHAP Explanations and Gradient Boosting Insights paper. Access paper in "https://ieeexplore.ieee.org/abstract/document/10782292 paper".
+This repository is for lung adventitious sound detection and related to Adventitious Pulmonary Sound Detection: Leveraging SHAP Explanations and Gradient Boosting Insights paper. Access paper in "https://ieeexplore.ieee.org/abstract/document/10782292".
 # Dataset
 The repository uses the ICBHI 2017 respiratory sound dataset, accessible at https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge. The dataset is employed for classifying lung adventitious sounds into four distinct groups: Normal, WHEEZE, Cackle, and Wheeze+Crackle.
 # Details on running the code
